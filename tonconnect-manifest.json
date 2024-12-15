@@ -1,0 +1,12 @@
+{
+  "name": "MyApp",
+  "icon": "https://example.com/icon.png",
+  "short_description": "A decentralized app using TON",
+  "url": "https://example.com", 
+  "wallets": [
+    {
+      "name": "TonWallet",
+      "url": "https://ton.org/wallet"
+    }
+  ]
+}
